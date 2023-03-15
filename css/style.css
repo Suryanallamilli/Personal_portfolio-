@@ -489,7 +489,7 @@ form textarea {
         font-size: 2.5rem;
     }
     .home{
-        height: 130vh;
+        height: 60vh;
     }
 }
 @media (max-width:920){
